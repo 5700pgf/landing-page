@@ -8,6 +8,7 @@
       description: 自建订阅
     - title: 京东购物
       url: https://www.jd.com
+      logo: images/logos/jd.png
       description: 京东购物
     - title: 图床
       url: https://telegraph-image-1sn.pages.dev
