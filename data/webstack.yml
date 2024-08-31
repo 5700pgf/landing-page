@@ -4,7 +4,7 @@
   links: 
     - title: 新闻聚合
       url: https://news.186086.xyz
-      logo: images/logos/xxx.png
+      logo: images/logos/tt-rss.png
       description: 自建订阅
     - title: 京东购物
       url: https://www.jd.com
@@ -12,7 +12,9 @@
     - title: 图床
       url: https://telegraph-image-1sn.pages.dev
       description: TG图床
-
+    - title: chatgpt
+      url: https://chatgpt.com
+      description: chatgpt
 
 
 
