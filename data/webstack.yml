@@ -5,31 +5,36 @@
     - title: 新闻聚合
       url: https://news.186086.xyz
       logo: images/logos/tt-rss.png
-      description: 自建订阅
+
     - title: 京东购物
       url: https://www.jd.com
       logo: images/logos/jd.png
-      description: 京东购物
+
     - title: 图床
       url: https://telegraph-image-1sn.pages.dev
-      description: TG图床
+
       logo: images/logos/image.png
     - title: chatgpt
       url: https://chatgpt.com
-      description: chatgpt
+
     - title: cloudflare
       url: https://www.cloudflare.com/zh-cn
+      
     - title: youtube
       url: https://www.youtube.com
+      
     - title: az面板
       url: https://azman.186086.xyz
       logo: images/logos/azure.png
+      
     - title: open-webui
       url: https://chat.186086.xyz
       logo: images/logos/open-webui.png
+      
     - title: gmail
       url: https://mail.google.com
       logo: images/logos/gmail.png
+      
     - title: google
       url: https://www.google.com
 
