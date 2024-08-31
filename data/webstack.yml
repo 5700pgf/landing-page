@@ -18,9 +18,12 @@
     - title: cloudflare
       url: https://www.cloudflare.com/zh-cn
     - title: youtube
-      url: https://www.youtube.com/
-
-
+      url: https://www.youtube.com
+    - title: az面板
+      url: https://azman.186086.xyz
+      logo: images/logos/azure.png
+    - title: open-webui
+      url: https://chat.186086.xyz
 
       
 - taxonomy: 云服务平台
