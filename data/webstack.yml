@@ -24,6 +24,7 @@
       logo: images/logos/azure.png
     - title: open-webui
       url: https://chat.186086.xyz
+      logo: images/logos/open-webui.png
 
       
 - taxonomy: 云服务平台
@@ -54,29 +55,6 @@
         - title: 阿里小站
           url: https://pan666.cn
           description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
-    - term: 字幕
-      links:
-        - title: 字幕库
-          url: https://zmk.pw/
-        - title: SubHD
-          url: https://subhd.tv/
-    - term: 音乐
-      links:
-        - title: 果核音乐搜搜
-          url: https://music.ghxi.com/
-        - title: 音乐磁场
-          url: https://www.hifini.com/
 
-- taxonomy: 友情链接
-  icon: fa-link
-  friend:
-    - title: 子页面一
-      url: sub1
-      description: 本站子页面一，对应content目录的sub1.md，可重命名、删除、复制。
-    - title: 一为导航
-      url: https://nav.iowen.cn/
-      description: onenav主题演示站
-    - title: 趣导航
-      url: https://qssily.com/
       
 ---
