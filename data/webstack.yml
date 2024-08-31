@@ -12,6 +12,7 @@
     - title: 图床
       url: https://telegraph-image-1sn.pages.dev
       description: TG图床
+      logo: images/logos/image.png
     - title: chatgpt
       url: https://chatgpt.com
       description: chatgpt
