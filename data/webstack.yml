@@ -8,6 +8,7 @@
       description: 自建订阅
     - title: 京东购物
       url: https://www.jd.com
+      logo: images/logos/jd.png
       description: 京东购物
     - title: 图床
       url: https://telegraph-image-1sn.pages.dev
@@ -15,6 +16,12 @@
     - title: chatgpt
       url: https://chatgpt.com
       description: chatgpt
+    - title: cloudflare
+      url: https://www.cloudflare.com/zh-cn
+      logo: images/logos/clooudflare.png
+    - title: youtube
+      url: https://www.youtube.com/
+      logo: images/logos/youtube.png
 
 
 
