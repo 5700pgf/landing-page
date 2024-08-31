@@ -27,6 +27,11 @@
     - title: open-webui
       url: https://chat.186086.xyz
       logo: images/logos/open-webui.png
+    - title: gmail
+      url: https://mail.google.com
+      logo: images/logos/gmail.png
+    - title: google
+      url: https://www.google.com
 
       
 - taxonomy: 云服务平台
